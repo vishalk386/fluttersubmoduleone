@@ -4,7 +4,6 @@ class Photo {
   final String title;
   final String url;
   final String thumbnailUrl;
-
   const Photo({
     required this.albumId,
     required this.id,
